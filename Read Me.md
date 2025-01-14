@@ -103,9 +103,11 @@ ________________________________________
 ### Stage 5: Driving Business Insights
 
 Using the visualizations, I derived actionable insights:
+
 •	Demographic and geographic trends helped understand where churn was highest.
 •	Payment and account data revealed which payment methods were more likely to result in churn.
 •	Service data highlighted which products or plans correlated with higher churn rates.
+
 These insights can guide retention strategies, such as offering discounts or improved services to at-risk customers.
 
 
