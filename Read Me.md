@@ -46,7 +46,7 @@ ________________________________________
     
     •	Filled missing values where appropriate and standardized column names for consistency.
 
-![ETL Google Colab](/Data-Resources/Images/ETL%20Google%20Colab%20&%20Drive.JPG)
+![ETL Google Colab](/src/ETL%20Google%20Colab%20&%20Drive.JPG)
 ________________________________________
 
 ### Stage 2: Data Transformation with Pandas
@@ -100,7 +100,7 @@ ________________________________________
     
     •	Highlighted areas for targeted marketing campaigns, such as customers with short tenure or specific contract types.
 
-![ChurnVisualization](/Data-Resources/Images/Churn%20Analysis%20Summary.JPG)
+![ChurnVisualization](/src/Churn%20Analysis%20Summary.JPG)
 ________________________________________
 
 ### Stage 5: Driving Business Insights
