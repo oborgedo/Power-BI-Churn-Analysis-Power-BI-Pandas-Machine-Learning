@@ -27,7 +27,7 @@ ________________________________________
 1. Connecting Google Drive to Google Colab
 
     To start, I uploaded the dataset (CSV file) to my Google Drive. Then, I connected Google Colab to my Drive to access the file:    
-    •	Mounted my Drive using the command from google.colab import drive; drive.mount('/content/drive').    
+    •	Mounted my Drive using the command from google.colab import drive; ``` drive.mount('/content/drive') ```  
     •	Navigated to the folder containing my CSV file.
    
 3. Loading the Data Using Pandas
@@ -62,7 +62,7 @@ ________________________________________
 2. Preparing Data for Visualization
    
     I saved the transformed dataset as a new CSV for use in Power BI:    
-    •	Saved the file: df.to_csv('/content/drive/MyDrive/transformed_data.csv', index=False).
+    •	Saved the file: ``` df.to_csv('/content/drive/MyDrive/transformed_data.csv', index=False) ```
 ________________________________________
 
 ### Stage 3: Building the Power BI Architecture
