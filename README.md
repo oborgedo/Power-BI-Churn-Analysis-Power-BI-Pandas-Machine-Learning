@@ -1,4 +1,4 @@
-![CustomerChurn](src/Customer Churn.png)
+![CustomerChurn](src/CustomerChurn.png)
 
 ## End-to-End Churn Analysis Portfolio Project
 
