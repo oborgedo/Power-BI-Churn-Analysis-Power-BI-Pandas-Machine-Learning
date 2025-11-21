@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/Google%20Colab-gray?style=flat&logo=googlecolab&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=PowerBI)
 
-**View the Power BI Report [here](https://project.novypro.com/SOf07j)**
+**View the Power BI Report [Here](https://www.novypro.com/power-bi-churn-analysis-machine-learning)**
 
 ## End-to-End Churn Analysis Portfolio Project
 
