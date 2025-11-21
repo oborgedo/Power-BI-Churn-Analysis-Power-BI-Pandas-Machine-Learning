@@ -1,4 +1,10 @@
 ![CustomerChurn](src/CustomerChurn.png)
+![Static Badge](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
+![Static Badge](https://img.shields.io/badge/-Pandas-gray?style=flat&logo=pandas)
+![Static Badge](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=PowerBI)
+
+**View the Power BI Report [here](https://project.novypro.com/SOf07j)**
 
 ## End-to-End Churn Analysis Portfolio Project
 
