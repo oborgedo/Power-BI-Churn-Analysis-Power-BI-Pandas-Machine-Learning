@@ -10,12 +10,12 @@
 
 ### 1. Project Overview
 
-This project focuses on building an end-to-end churn analysis solution for a telecom company. It involves creating an ETL process, analyzing customer data, and developing a Power BI dashboard. The solution visualizes customer demographics, payment details, and service usage while predicting potential churners using machine learning, enabling proactive strategies to improve customer retention.
+In this project I focused on building an end-to-end churn analysis solution for a telecom company. It involved creating an ETL process, analyzing customer data, and developing a Power BI dashboard. The Power BI solution visualizes customer demographics, payment details, and service usage while predicting potential churners using machine learning, enabling proactive strategies to improve customer retention.
 ________________________________________
 
 ### 2. What is Churn Analysis and Why is it Important?
 
-Churn analysis identifies customers likely to leave a business by analyzing patterns in customer data. For telecom companies, it is critical as customer acquisition costs are high, and retaining existing customers ensures steady revenue. By understanding churn drivers, companies can implement targeted strategies to enhance customer satisfaction and loyalty.
+With a churn analysis we identify **customers likely to leave** a business by analyzing patterns in the customer data. For telecom companies, it is critical as customer acquisition costs are high, and retaining existing customers ensures steady revenue. By understanding churn drivers, companies can implement targeted strategies to enhance customer satisfaction and loyalty.
 ________________________________________
 
 ### 3. Project Target
@@ -24,7 +24,7 @@ The project aims to:
     •	ETL Process: Extract, transform, and load customer data into a database for structured analysis.    
     •	Data Visualization: Create a Power BI dashboard to analyze customer demographics, geography, and account details.   
     •	Machine Learning: Develop an algorithm to predict churn.    
-    •	Churn Insights: Provide actionable insights to reduce churn and improve customer retention.
+    •	Insights: Provide actionable insights to reduce churn and improve customer retention.
 
 ________________________________________
 
